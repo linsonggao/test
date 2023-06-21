@@ -1,0 +1,15 @@
+{
+    "name": "linsonggao/test",
+    "autoload": {
+        "psr-4": {
+            "Linsonggao\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "linsonggao",
+            "email": "371925293@qq.com"
+        }
+    ],
+    "require": {}
+}
